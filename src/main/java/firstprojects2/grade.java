@@ -48,7 +48,7 @@ public class grade {
 		} else if (result <= 76) {
 			System.out.println("you letter is D for a value of " + input);
 		}
-
+		scanner.close();
 	}
 
 }
