@@ -24,7 +24,7 @@ import java.util.*;
  * @since 1.0
  *
  */
-public class exercise {
+public class Exercise {
 	public static void main(String[] args) {
 		String input;
 		Scanner scanner = new Scanner(System.in);

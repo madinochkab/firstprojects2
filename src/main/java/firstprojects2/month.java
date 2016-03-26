@@ -69,6 +69,9 @@ public class month {
 		case 12:
 			System.out.println("this is dec ");
 			break;
+		default:
+			System.out.println("this is not a month ");
+			break;
 
 		}
 		scanner.close();
